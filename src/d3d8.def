@@ -1,0 +1,7 @@
+LIBRARY d3d8.dll
+EXPORTS
+    Direct3DCreate8
+    ValidatePixelShader
+    ValidateVertexShader
+    DebugSetMute
+    Direct3D8EnableMaximizedWindowedModeShim

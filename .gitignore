@@ -1,0 +1,22 @@
+# Build directories
+build/
+bin/
+out/
+
+# Visual Studio / MSBuild temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Testing and verification directory
+th_dnh/
+
+# Logs and memory dumps
+*.log
+*.mem
+
+# OS generated files
+.DS_Store
+Thumbs.db
